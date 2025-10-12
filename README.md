@@ -8,6 +8,6 @@
 at the [Hinweis AITC–2025 Conference](http://aitc.thehinweis.com/2025)  
 🏗️ Projects I’m working on: Contact Management API, Crowdfunding Platform, RFID Smart Lock  
 🤝 I’m open to collaborating on backend-heavy full-stack apps or automation tools  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/salmanalfariz) | [Email](mailto:salmanalfariz332@gmail.com)  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/salmanalfariz) | [Email](mailto:salman.al.fariz@outlook.com)  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: MySQL was named after co-founder Michael Widenius's daughter "My" – and MariaDB (the MySQL fork) is named after his younger daughter "Maria"! Family-driven database naming! 👨‍👧‍👧
